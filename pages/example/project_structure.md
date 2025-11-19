@@ -14,7 +14,6 @@ src/
     models.py          # SQLAlchemy ORM models (Subscriber)
     schemas.py         # Pydantic request/response schemas
     services.py        # Business logic layer
-    __pycache__/
 README.md
 ```
 

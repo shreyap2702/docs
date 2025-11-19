@@ -1,7 +1,7 @@
 # `search_by_emails()`
 
 Search for multiple contacts at once using a list of email addresses.  
-This method sends a request to the `/contacts/search/emails` endpoint and returns all matching contacts.
+This method sends a request to the `POST /contacts/search/emails` endpoint and returns all matching contacts.
 
 ---
 

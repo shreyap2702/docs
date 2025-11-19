@@ -1,6 +1,6 @@
 # `create_contact()`
 
-Create a new contact in AutoSend using the `/contacts` endpoint.  
+Create a new contact in AutoSend using the `POST /contacts` endpoint.  
 This method registers a contact with required fields and optional metadata.  
 The SDK performs validation before sending the request.
 

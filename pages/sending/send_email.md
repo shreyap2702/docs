@@ -1,6 +1,6 @@
 # `send_email()`
 
-Send a single transactional or marketing email through the `POST/mails/send` endpoint.
+Send a single transactional or marketing email through the `POST /mails/send` endpoint.
 
 ## What this function does
 

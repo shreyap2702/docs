@@ -1,7 +1,7 @@
 # `bulk_update()`
 
 Create or update multiple contacts in a single request.  
-This method uses the `POST/contacts/bulk-update` endpoint to process up to 100 contacts at once.
+This method uses the `POST /contacts/bulk-update` endpoint to process up to 100 contacts at once.
 
 ---
 

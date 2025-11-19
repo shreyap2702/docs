@@ -1,6 +1,6 @@
 # `send_bulk()`
 
-Send the same email to multiple recipients in a single request using the `POST/mails/bulk` endpoint.
+Send the same email to multiple recipients in a single request using the `POST /mails/bulk` endpoint.
 
 ## What this function does
 

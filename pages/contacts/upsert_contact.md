@@ -1,6 +1,6 @@
 # `upsert_contact()`
 
-Create a new contact or update an existing one using the `/contacts/email` endpoint.  
+Create a new contact or update an existing one using the `POST /contacts/email` endpoint.  
 This method is recommended for contact synchronization because it automatically updates a contact if the email already exists.
 
 ---

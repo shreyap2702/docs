@@ -1,6 +1,6 @@
 # `remove_contacts()`
 
-Remove one or more contacts using the `/contacts/remove` endpoint.  
+Remove one or more contacts using the `POST /contacts/remove` endpoint.  
 This method deletes contacts from AutoSend based on their email addresses.
 
 ---
