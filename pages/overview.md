@@ -37,7 +37,7 @@ from autosend import AutosendClient
 ### Install from GitHub (Alternative)
 
 ```bash
-pip install git+[https://github.com/shreyap2702/autosend-python-sdk.git](https://github.com/shreyap2702/autosend-python-sdk.git)
+pip install git+https://github.com/shreyap2702/autosend-python-sdk.git
 ```
 
 -----
