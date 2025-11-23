@@ -15,7 +15,33 @@
     "og:title": "Autosend Python SDK Docs",
     "og:description": "Official documentation for the Autosend Python SDK."
   },
+  "navbar":{
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/shreyap2702/autosend-python-sdk",
+        "icon":"github"},
+        {
+          "label": "Package",
+          "href": "https://pypi.org/project/autosend-shreya-sdk",
+          "icon":"python"
+        }]},
+  
   "navigation": {
+    "global":  {
+      "anchors": [
+        {
+          "anchor": "Github",
+          "icon": "github",
+          "href": "https://github.com/shreyap2702/autosend-python-sdk"
+        },
+        {
+          "anchor": "Package",
+          "icon": "python",
+          "href": "https://pypi.org/project/autosend-shreya-sdk/"
+        }
+      ]
+    },
     "groups": [
       {
         "group": "Introduction",
@@ -63,6 +89,5 @@
       }
     ],
     "pages": []
-  },
-  "topbarCtaButton": null
+  }
 }
